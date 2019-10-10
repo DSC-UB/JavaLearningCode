@@ -4,6 +4,7 @@ This Repository is a collection of code by those who are learning java.
 ## Getting Started
 Students are expected to setup the folowing.
 - Install and Setup Git.
+- Create a github.com account.
 - Download IDE of choice for java development and install.
 - Download and install jdk 11 or 12. Use this link https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html
   or this https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html .
