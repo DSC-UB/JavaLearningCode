@@ -1,5 +1,5 @@
 # JavaForAndroidDev_DSC-UB
-This Repository is for those who are want to learn android development with the Java Programming Langauge
+This Repository is for those who are want to learn java for android development.
 
 ## Getting Started
 Students are expected to setup the folowing
