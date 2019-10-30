@@ -18,4 +18,6 @@ Students are expected to setup the following.
   * Move to your working directory, that is `cd yourDirectoryName/JavaLearningCode` 
   * Creat a new branch with `git checkout -b YourBranchName`
   * On pushing your work make sure you push but the branch for example `git push YourBranchName`
-  * Once you have push, go online and create PR so that your work will be reviewed and merged.
+  * Once you have push, come to us and we shall create in branch in your name where you shall be creating all your PR to.
+  * Go online and create PR to the branch with your name so that your work will be reviewed and merged.
+  * Thanks
