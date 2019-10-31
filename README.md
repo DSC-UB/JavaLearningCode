@@ -30,4 +30,6 @@ Students are expected to setup the following.
   * Difficulty04
   * Difficulty05
 - It should be advisable that each level of difficulty issues should be in a different folder.
+- Depending on your skills, you can start from any level of diffiulty and go though the issues.
+- If you think you are skill enough, you can make your first PR to this android project https://github.com/DSC-UB/travel_mobile.
 - Going though all this will help you being suited to android development using the java language.
